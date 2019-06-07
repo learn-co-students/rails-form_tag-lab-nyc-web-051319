@@ -1,4 +1,4 @@
-# Rails form_tag Lab
+lear# Rails form_tag Lab
 
 ## Objectives
 
